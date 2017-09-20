@@ -1,0 +1,10 @@
+c:\Users\A6654\Desktop\TDotNET\bin\Debug\netcoreapp2.0\TDotNET.deps.json
+c:\Users\A6654\Desktop\TDotNET\bin\Debug\netcoreapp2.0\TDotNET.runtimeconfig.json
+c:\Users\A6654\Desktop\TDotNET\bin\Debug\netcoreapp2.0\TDotNET.runtimeconfig.dev.json
+c:\Users\A6654\Desktop\TDotNET\bin\Debug\netcoreapp2.0\TDotNET.dll
+c:\Users\A6654\Desktop\TDotNET\bin\Debug\netcoreapp2.0\TDotNET.pdb
+c:\Users\A6654\Desktop\TDotNET\obj\Debug\netcoreapp2.0\TDotNET.csproj.CoreCompileInputs.cache
+c:\Users\A6654\Desktop\TDotNET\obj\Debug\netcoreapp2.0\TDotNET.AssemblyInfoInputs.cache
+c:\Users\A6654\Desktop\TDotNET\obj\Debug\netcoreapp2.0\TDotNET.AssemblyInfo.cs
+c:\Users\A6654\Desktop\TDotNET\obj\Debug\netcoreapp2.0\TDotNET.dll
+c:\Users\A6654\Desktop\TDotNET\obj\Debug\netcoreapp2.0\TDotNET.pdb
